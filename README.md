@@ -1,5 +1,6 @@
-# Palindrome-Stirng-in-C-
-#include <bits/stdc++.h>
+# Palindrome-Stirng-in-C++
+
+#include <iostream>
 using namespace std;
 
 stirng isPlaindrome
